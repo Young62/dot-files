@@ -1,11 +1,12 @@
--TMUX
-https://github.com/tmux-plugins/tpm
+# TMUX
+* https://github.com/tmux-plugins/tpm
+* https://github.com/dracula/tmux/blob/master/docs/CONFIG.md
 
--zsh
+# zsh
 * oh-my-zsh (https://ohmyz.sh/#install)
   
 
 
--deps
+# deps
 * gcc
 * neovim
